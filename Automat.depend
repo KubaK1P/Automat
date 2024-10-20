@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1729178574 source:c:\users\kubak\onedrive\dokumenty\programowanie\automat\automat\drink.cpp
+	"Drink.hpp"
+
+1729178640 c:\users\kubak\onedrive\dokumenty\programowanie\automat\automat\drink.hpp
+	<string>
+
+1729180164 source:c:\users\kubak\onedrive\dokumenty\programowanie\automat\automat\main.cpp
+	"VendingMachine.hpp"
+	<iostream>
+
+1729178562 c:\users\kubak\onedrive\dokumenty\programowanie\automat\automat\vendingmachine.hpp
+	"Drink.hpp"
+	<vector>
+
+1729179621 source:c:\users\kubak\onedrive\dokumenty\programowanie\automat\automat\vendingmachine.cpp
+	"VendingMachine.hpp"
+	"BillDistribution.hpp"
+	<iostream>
+	<iomanip>
+
+1729180164 source:c:\users\kubak\onedrive\dokumenty\programowanie\automat\automat\billdistribution.cpp
+	"BillDistribution.hpp"
+	<iostream>
+	<iomanip>
+
+1729179320 c:\users\kubak\onedrive\dokumenty\programowanie\automat\automat\billdistribution.hpp
+	<vector>
+	<string>
+
