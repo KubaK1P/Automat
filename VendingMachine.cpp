@@ -61,3 +61,6 @@ void VendingMachine::showTotalMoney() const {
          << fixed << setprecision(2) << totalMoney << endl;
 }
 
+void VendingMachine::addDrink(string name, float price, int quantity) {
+    drinks.push_back(Drink(name, price, quantity));
+}
